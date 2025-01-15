@@ -83,7 +83,7 @@
 ### 📊 GitHub Stats
 
 <p align="center">
-  <a href="https://github.com/uehlingeric" target="_blank">
+  <a href="https://github.com/vivek12367" target="_blank">
     <img
       height="160em"
       src="https://github-readme-stats-eight-theta.vercel.app/api?username=uehlingeric&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"
@@ -99,6 +99,6 @@
 
 <footer>
   <p align="center">
-    <em>Feel free to connect with me on <a href="https://www.linkedin.com/in/uehlingeric" target="_blank">LinkedIn</a> or reach out via <a href="mailto:uehlingeric@gmail.com" target="_blank">email</a>!</em>
+    <em>Feel free to connect with me on <a href="http://www.linkedin.com/in/chatla-vivek-317016200/" target="_blank">LinkedIn</a> or reach out via <a href="mailto:vivekc1@umbc.edu" target="_blank">email</a>!</em>
   </p>
 </footer>
